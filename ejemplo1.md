@@ -10,3 +10,9 @@ Mi primer aprendizaje con git
         color: black;
 }
 </style>
+
+Aumentando mas codigo
+
+![mascota](dino.jpg)
+
+cambiando mi codigo
