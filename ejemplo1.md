@@ -10,3 +10,7 @@ Mi primer aprendizaje con git
         color: black;
 }
 </style>
+
+
+varios cambios a mi proyecto
+esto es para revisar lo anterior dicho
