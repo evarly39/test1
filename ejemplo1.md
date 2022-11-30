@@ -16,3 +16,5 @@ Aumentando mas codigo
 ![mascota](dino.jpg)
 
 cambiando mi codigo
+
+Primera mente vario variables
