@@ -21,3 +21,7 @@ Primera mente vario variables
 
 imagen 2
 ![polar](polar-bear-hero.jpg)
+
+varios cambios a mi proyecto
+esto es para revisar lo anterior dicho
+
