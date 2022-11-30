@@ -18,3 +18,6 @@ Aumentando mas codigo
 cambiando mi codigo
 
 Primera mente vario variables
+
+imagen 2
+![polar](polar-bear-hero.jpg)
